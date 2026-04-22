@@ -69,6 +69,8 @@ cd openclaw-zero-token
 ### 步骤 2：安装依赖
 
 ```bash
+npm install oxlint-tsgolint@latest --save-dev
+pnpm add -w vite vite-plugin-dts
 npm install
 ```
 
