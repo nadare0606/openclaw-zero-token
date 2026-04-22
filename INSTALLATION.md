@@ -71,6 +71,7 @@ cd openclaw-zero-token
 ```bash
 npm install oxlint-tsgolint@latest --save-dev
 pnpm add -w vite vite-plugin-dts
+pnpm add matrix-js-sdk fake-indexeddb @matrix-org/matrix-sdk-crypto-nodejs
 npm install
 ```
 
